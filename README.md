@@ -47,6 +47,7 @@
 # Run the project file 
 -- run app.py
 
+<img width="1440" alt="Screenshot 2020-03-25 at 11 03 07 AM" src="https://user-images.githubusercontent.com/54563204/77506281-7d4e1480-6e8b-11ea-8cfd-06e793553eea.png">
 
 
 
