@@ -1,15 +1,21 @@
 # FLASK
+  this is the required solution of the DevOps testing
 # Use the Scientific Python Devevelopment Environment ( SPYDER 3)
+  this is available with Anaconda navigator
 
 # create project directory.
  -- Testing Flask
+ -- set as working project directory
  
 # set project directory as the working directory 
--- iPython console set
--- app.py
+-- app.py 
+   is the python program to be tested and run
+   
+ ** set iPython console in the project environment
 
 # update into project directory
 -- user.json
+   is the user data that is assigned to the various variables within the program
 
 # install dependencies in iPython console
 -- pip install -U Flask
