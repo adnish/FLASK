@@ -55,27 +55,37 @@
 
 # Debugging
 -- x = value of input(x)
--- y = calue of input(y)
+
+-- y = value of input(y)
 
 ops = any operation
 
-**** syntax error *** arithmetic operators cannot be string 
---- problem in line 21. type = str //
+*** Syntax Error *** arithmetic operators are not string
 
+// error in line21 type='str'
+
+
+Normal debugging (success)
  ** debug 
+ 
   x = 200 
+  
   y = 100
    
   1.result = x - y
+    
     result = 100
   
   2.result = x + y
+    
     result = 300
    
   3.result = x * y
+    
     result = 20000
     
   4.result = x / y
+    
     result = 2
     
     
