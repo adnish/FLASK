@@ -76,16 +76,16 @@ Normal debugging (success)
     
     result = 100
   
-  2.result = x + y
+  2.result1 = x + y
     
-    result = 300
+    result1 = 300
    
-  3.result = x * y
+  3.result2 = x * y
     
-    result = 20000
+    result2 = 20000
     
-  4.result = x / y
+  4.result4 = x / y
     
-    result = 2
+    result4 = 2
     
     
