@@ -1,0 +1,13 @@
+use pip install or easy_install
+
+#Flask
+
+pip install -U Flask
+
+#Flask-Cors
+
+pip install -U flask-cors
+
+#Flask-RESTful
+
+pip install Flask-RESTful
