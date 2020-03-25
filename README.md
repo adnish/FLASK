@@ -46,7 +46,7 @@
 
 # Run the project file 
 -- run app.py
-<img width="1440" alt="Screenshot 2020-03-25 at 11 03 41 AM" src="https://user-images.githubusercontent.com/54563204/77506155-1c264100-6e8b-11ea-919b-f891cdc2afc8.png">
+
 
 
 
@@ -67,6 +67,7 @@ ops = any operation
 
 // error in line21 type='str'
 
+<img width="1440" alt="Screenshot 2020-03-25 at 11 03 41 AM" src="https://user-images.githubusercontent.com/54563204/77506155-1c264100-6e8b-11ea-919b-f891cdc2afc8.png">
 
 Normal debugging (success)
  ** debug 
